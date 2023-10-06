@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nanerseasac&label=Profile%20views&color=0e75b6&style=flat" alt="nanerseasac" /> </p>
 
-- 🌱 I’m currently learning **Java**
+- 🌱 I’m currently learning **Python**
 
 - 💬 Ask me about **next, typescript**
 
