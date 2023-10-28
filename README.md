@@ -3,9 +3,8 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nanerseasac&label=Profile%20views&color=0e75b6&style=flat" alt="nanerseasac" /> </p>
 
-# Olá pessoal! 🤓
+Meu nome é **Renan**, Sou carioca, apaixonado por tecnologia e gamer, encontrei na área de desenvolvimento de software a fusão perfeita entre minha paixão pela arte e a tecnologia. 
 
-Meu nome é **Ren**, Sou carioca, apaixonado por tecnologia e gamer, encontrei na área de desenvolvimento de software a fusão perfeita entre minha paixão pela arte e a tecnologia. 
 
 - 🌱 I’m currently learning **Python**
 
